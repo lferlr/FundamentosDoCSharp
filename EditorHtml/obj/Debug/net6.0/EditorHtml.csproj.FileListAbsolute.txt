@@ -1,0 +1,15 @@
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+E:\Desenvolvimento\C#\FundamentosDoC#\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll

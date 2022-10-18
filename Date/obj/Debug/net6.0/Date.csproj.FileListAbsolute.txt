@@ -1,0 +1,15 @@
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\bin\Debug\net6.0\Date.exe
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\bin\Debug\net6.0\Date.deps.json
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\bin\Debug\net6.0\Date.runtimeconfig.json
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\bin\Debug\net6.0\Date.dll
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\bin\Debug\net6.0\Date.pdb
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\Date.csproj.AssemblyReference.cache
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\Date.AssemblyInfoInputs.cache
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\Date.AssemblyInfo.cs
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\Date.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\Date.dll
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\refint\Date.dll
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\Date.pdb
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\Date.genruntimeconfig.cache
+E:\Desenvolvimento\C#\FundamentosDoC#\Date\obj\Debug\net6.0\ref\Date.dll
